@@ -17,3 +17,17 @@ settings_local.py
 
 ### OS specific ###
 .DS_Store
+creating-project/
+models_list_displaying/
+phone_comparison/
+databases_2/
+django-testing/
+drf-auth-and-validation/
+drf-intro/
+dynamic-templates/
+first-project/
+request-handling/
+site-form-works/
+site-personalization/
+HOW_TO_WORK.md
+README.md
